@@ -1,9 +1,12 @@
 # Compte rendu : chatbot basé sur un RAG
 
-**Dépôt GitHub :** LIEN_GITHUB
-**Application déployée :** LIEN_STREAMLIT
+**Dépôt GitHub :** https://github.com/arturiolv/tp-rag-chatbot
+
+**Application déployée :** https://tp-rag-chatbot-arturiolv.streamlit.app/
 
 **Modèles.** `gpt-6-luna` et `text-embedding-3-small`, sur 12 pages Wikipedia, soit 425 chunks.
+
+**Question 26.** Après la modification du sous-titre et un `git push`, l'application en ligne a affiché le nouveau texte environ une minute plus tard, sans nouveau déploiement manuel.
 
 ## Questions de réflexion
 
