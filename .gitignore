@@ -1,0 +1,20 @@
+# Secrets : clés API
+.env
+.streamlit/secrets.toml
+
+# Bases vectorielles : recalculables et lourdes
+chroma_db_*/
+
+# Environnement virtuel : propre à chaque machine
+.venv/
+
+# Fichiers compilés par Python
+__pycache__/
+*.pyc
+
+# Énoncé du TP : document de l'enseignant, à ne pas republier
+enonce_TP_RAG.pdf
+
+# Fichiers parasites de macOS
+__MACOSX/
+.DS_Store
