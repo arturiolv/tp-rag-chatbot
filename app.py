@@ -34,7 +34,7 @@ def show_answer(message):
 
 
 st.title("Chatbot RAG sur l'IA générative")
-st.caption("Réponses fondées sur 12 pages Wikipedia en français.")
+st.caption("Réponses fondées sur 12 pages Wikipedia en français, avec leurs sources.")
 
 retriever = load_retriever()
 
